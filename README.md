@@ -106,6 +106,8 @@ Although I am in the early stages of my journey as a programmer, I am enthusiast
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=20 /> JavaScript - the language I used for most of my projects
 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=20 /> TypeScript - learning
+
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=20/> CSS - used quite a lot to make my apps look cool :sunglasses:
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=20/> HTML - basic things learned while developing projects
