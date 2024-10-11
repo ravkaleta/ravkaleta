@@ -6,9 +6,9 @@ I devote a lot of attention to designing graphical interfaces, which I try to re
 
 Although I am in the early stages of my journey as a programmer, I am enthusiastic and ready to learn and challenge myself.
 
-<p align="center">
-    <a href="https://portfolio-rho-three-40.vercel.app" style="font-size:32px;">-> My portfolio website <-</a>
-</p>
+<h3 align="center">
+    <a href="https://portfolio-rho-three-40.vercel.app">-> My portfolio website <-</a>
+</h3>
 
 ## My projects
 
